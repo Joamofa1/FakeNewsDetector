@@ -14,4 +14,4 @@ Install these python libraries for the solution:
 - Pandas
 
 
-```eg. pip install numpy``
+```eg. pip install numpy```
