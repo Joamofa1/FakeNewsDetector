@@ -6,8 +6,12 @@ Download the CSV file used in the project
 
 ## Approach to attaining solution 🔖
 Install these python libraries for the solution:
-#### Using 'pip install ****'
+##Using 'pip install ****'
+#Various librraries and packages used
 - Numpy
 - Scipy
 - Keras
 - Pandas
+
+
+```eg. pip install numpy``
